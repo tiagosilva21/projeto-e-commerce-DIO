@@ -11,3 +11,10 @@ Assim como demonstrado durante o desafio, realize a criação do Script SQL para
 - Defina ordenações dos dados com ORDER BY
 - Condições de filtros aos grupos – HAVING Statement
 - Crie junções entre tabelas para fornecer uma perspectiva mais complexa dos dados
+
+## Divisão do projeto
+
+O projeto ficou dividido em três arquivos:
+- O Diagrama em mwb
+- O Sql das querys CREATE das tabelas
+- O Sql das querys de INSERT e SELECT das tabelas
